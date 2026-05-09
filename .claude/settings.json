@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__gemini-cli__ask-gemini",
+      "mcp__gemini-cli__Ping",
+      "mcp__gemini-cli__Help"
+    ]
+  }
+}
